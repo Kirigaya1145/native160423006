@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
         binding.button.setOnClickListener {  }
+        //P
     }
 }
